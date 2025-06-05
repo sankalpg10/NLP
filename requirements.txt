@@ -1,1 +1,12 @@
-nltk
+datasets==2.10.1
+fastai==2.7.11
+huggingface-hub==0.13.3
+kaggle==1.5.13
+keras==2.11.0
+matplotlib==3.7.1
+numpy==1.22.4
+pandas==1.4.4
+scikit-learn==1.2.2
+sentencepiece==0.1.97
+tensorflow==2.11.0
+transformers==4.27.2
